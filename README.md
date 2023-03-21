@@ -1,5 +1,5 @@
 # Plant_monitering_system_with_AI2
-Readme
+
 Plant Disease Detection with VGG16 using Tensorflow
 This project uses VGG16, a pre-trained model of convolutional neural network (CNN), for identifying plant diseases. It utilizes the PlantVillage Dataset for training and testing the model.
 
