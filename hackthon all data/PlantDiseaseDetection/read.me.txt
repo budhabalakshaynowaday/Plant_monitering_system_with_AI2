@@ -1,0 +1,2 @@
+introduction
+this website is a proto type of the plant fertilzer suggestion tool and pridicts weather and forcast with real time data fetch by microcontroller with the help of sensors
